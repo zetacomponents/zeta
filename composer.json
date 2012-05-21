@@ -1,0 +1,17 @@
+{
+    "name": "zetacomponents/zeta",
+    "type": "library",
+    "description": "Zeta Components",
+    "license": "Apache-2.0",
+    "keywords": ["Zeta"],
+    "require": {
+        "zetacomponents/base": "*",
+        "zetacomponents/archive": "*"
+    },
+    "require-dev": {
+        "zetacomponents/unit-test": "*"
+    },
+    "config": {
+        "vendor-dir": "trunk"
+    }
+}
